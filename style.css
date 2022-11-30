@@ -41,6 +41,7 @@ li {
   margin: 1.2em;
 }
 main {
-  margin-left: 30%;
-  margin-right: 30%;
+  /*Per centrare il main*/
+  width: 50%;
+  margin: auto;
 }
