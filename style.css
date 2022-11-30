@@ -41,6 +41,10 @@
   text-align: center;
 }
 
+.sally {
+  color: #757575;
+}
+
 #line {
   display: inline;
   color: red;
