@@ -24,6 +24,19 @@
   border-top: solid rgb(255, 208, 0);
 }
 
+.bordo {
+  border-left: solid green 2px;
+}
+
+.lnk1 {
+  margin: 0.8em;
+  color: red;
+}
+
+.lnk2 {
+  margin: 0.8em;
+}
+
 .center {
   text-align: center;
 }
